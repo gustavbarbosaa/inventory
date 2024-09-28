@@ -1,0 +1,20 @@
+{
+  "meuInventario": [
+    { 
+      "id": 1, 
+      "nomeItem": "teste", 
+      "categoriaItem": "teste",
+      "emprestado": false,
+      "destinatario": "teste"
+    }
+  ],
+  "emprestado": [
+    { 
+      "id": 1, 
+      "nomeItem": "teste", 
+      "categoriaItem": "teste",
+      "emprestado": false,
+      "destinatario": "teste"
+    }
+  ]
+}
