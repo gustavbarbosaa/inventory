@@ -19,13 +19,6 @@ body {
   font-family: "Poppins";
 }
 
-header {
-  width: 100%;
-  -webkit-box-shadow: -1px 6px 14px 0px rgba(0, 0, 0, 0.253);
-  -moz-box-shadow: -1px 6px 14px 0px rgba(0, 0, 0, 0.253);
-  box-shadow: -1px 6px 14px 0px rgba(0, 0, 0, 0.253);
-}
-
 main {
   width: 100%;
   flex: 1;
